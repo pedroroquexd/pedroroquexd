@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🙋‍♂️ Desenvolvedor FullStack | Produtor de Material Didático | CSharp | .NET Core | Javascript | HTML5 e CSS3 | Game Development/Design | Storytelling
-- 📚 Estudante de Desenvolvmento de Sistemas
+- 📚 Estudante de Desenvolvimento de Sistemas
 - 🧩 Hobbys: Jogar RPG | Desenhar | Ler e Escrever | Pescar | Tocar Piano e Violão
   
 ##
