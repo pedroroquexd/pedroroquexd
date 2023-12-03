@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Pedro Roque! 👻 💻
+<img align="right" style="margin-bottom: 30px;" src="https://i.picasion.com/pic92/e568c2c6d085fab862cbaec41482fbb8.gif" width="180" height="160" alt="gif"/>
 
 <a href="https://github.com/pedroroquexd">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroroquexd&show_icons=true&theme=midnight-purple&count_private=true"/>
@@ -18,16 +19,14 @@
 <img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="right" style="margin-bottom: 30px;" src="https://i.picasion.com/pic92/e568c2c6d085fab862cbaec41482fbb8.gif" width="180" height="160" alt="gif"/>
 </div>
-
-
 
 ### **🧐 About:** 
 ```diff
-@@I'm a lover of technology and art@@
 
-+ Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
-- 21 years old (that's what they say...)
-! NodeJS and React programmer and always studying some technology
-# Interested in Java, Ruby, Rust stuff and how cookies are made
+Entusiasta da Tecnologia, conhecido por ser multidisciplinar e amante da arte em geral.
+
++ Morando em Camaçari, Bahia, Brasil 🇧🇷 
+- 22 anos de idade (22 Taylor's Version)
+! Atualmente aprendendo CSharp, .NET Core e outras linguagens voltadas à Web, como: Javascrip e PHP
+# Interessado em Java, GO, Infraestrutura e Micriserviços
