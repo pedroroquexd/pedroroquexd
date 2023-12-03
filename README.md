@@ -24,11 +24,19 @@
 ### **🧐 About:** 
 ```diff
 
-Entusiasta da Tecnologia, conhecido por ser multidisciplinar e amante da arte em geral.
+@@ Entusiasta da Tecnologia, conhecido por ser multidisciplinar e amante da arte em geral. @@
 
-+ Morando em Camaçari, Bahia, Brasil 🇧🇷 
-- 22 anos de idade (22 Taylor's Version)
+- Adora falar sobre assuntos gerais;
+- Lê romances góticos pra caramba;
+- Multiplos hobbies
+
++ Nascido e criado em São Paulo;
++ Morando atualmente em Camaçari, Bahia, Brasil 🇧🇷;
++ 22 anos de idade (22 Taylor's Version)
+
 ! Atualmente aprendendo CSharp, .NET Core e outras linguagens voltadas à Web, como: Javascrip e PHP
+! É revisor e produtor de conteúdo didático voltado para a Tecnologia;
+! Futuro professor de programação;
 # Interessado em Java, GO, Infraestrutura e Microserviços
 ```
 
