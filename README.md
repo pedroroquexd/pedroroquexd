@@ -40,7 +40,8 @@
 # Interessado em Java, GO, Infraestrutura e Microserviços
 ```
 
-### Para saber mais, você pode me encontrar aqui:
+### Para saber mais, ou simplesmente saber o que eu estou ouvindo no momento, você pode me encontrar aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroroquexd/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gnu5momfe3agnykynsncawuume?si=ia-GH8oXTae-yP6k7TrUbw)
 
