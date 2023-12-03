@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Roque! 👻 💻
+#### Olá! Eu sou o Pedro Roque! 👻 💻
 <img align="right" style="margin-bottom: 30px;" src="https://i.picasion.com/pic92/e568c2c6d085fab862cbaec41482fbb8.gif" width="180" height="160" alt="gif"/>
 
 <a href="https://github.com/pedroroquexd">
@@ -30,3 +30,9 @@ Entusiasta da Tecnologia, conhecido por ser multidisciplinar e amante da arte em
 - 22 anos de idade (22 Taylor's Version)
 ! Atualmente aprendendo CSharp, .NET Core e outras linguagens voltadas à Web, como: Javascrip e PHP
 # Interessado em Java, GO, Infraestrutura e Micriserviços
+```
+
+### Para saber mais, você pode me encontrar aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroroquexd/)
+
