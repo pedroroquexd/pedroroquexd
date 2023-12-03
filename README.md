@@ -1,4 +1,5 @@
 <h3 align="left"> Olá! Eu sou o Pedro Roque! - <a href="https://discordapp.com/users/themoondusth">pedroquexd</a>  👻 💻 <h3>
+
   
 <img align="right" style="margin-bottom: 30px;" src="https://i.picasion.com/pic92/e568c2c6d085fab862cbaec41482fbb8.gif" min-width="300px" max-height="300px" width="300px" alt="gif"/>
 
@@ -6,7 +7,7 @@
 
 - 🙋‍♂️ Desenvolvedor FullStack | Produtor de Material Didático | CSharp | .NET Core | Javascript | HTML5 e CSS3 | Game Development/Design | Storytelling
 - 📚 Estudante de Desenvolvmento de Sistemas
-- 🧩 Hobbys: Desenhar | Ler e Escrever | Pescar | Tocar Piano e Violão
+- 🧩 Hobbys: Jogar RPG | Desenhar | Ler e Escrever | Pescar | Tocar Piano e Violão
   
 ##
 
@@ -50,5 +51,8 @@
 ### Para saber mais, ou simplesmente saber o que eu estou ouvindo no momento, você pode me encontrar aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroroquexd/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroroquexd5@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gnu5momfe3agnykynsncawuume?si=ia-GH8oXTae-yP6k7TrUbw)
+
+
 
