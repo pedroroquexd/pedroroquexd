@@ -29,7 +29,7 @@ Entusiasta da Tecnologia, conhecido por ser multidisciplinar e amante da arte em
 + Morando em Camaçari, Bahia, Brasil 🇧🇷 
 - 22 anos de idade (22 Taylor's Version)
 ! Atualmente aprendendo CSharp, .NET Core e outras linguagens voltadas à Web, como: Javascrip e PHP
-# Interessado em Java, GO, Infraestrutura e Micriserviços
+# Interessado em Java, GO, Infraestrutura e Microserviços
 ```
 
 ### Para saber mais, você pode me encontrar aqui:
