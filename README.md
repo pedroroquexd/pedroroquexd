@@ -24,7 +24,7 @@
 ### **🧐 About:** 
 ```diff
 
-@@ Entusiasta da Tecnologia, marido troféu de uma escritora, conhecido por ser multidisciplinar e amante da arte em geral. @@
+@@ Entusiasta da Tecnologia, marido troféu de uma escritora, conhecido por ser multidisciplinar e amante da arte. @@
 
 - Adora falar sobre assuntos gerais;
 - Lê romances góticos pra caramba;
