@@ -21,7 +21,7 @@
 <img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-### **🧐 About:** 
+### **🧐 Sobre mim:** 
 ```diff
 
 @@ Entusiasta da Tecnologia, marido troféu de uma escritora, conhecido por ser multidisciplinar e amante da arte. @@
