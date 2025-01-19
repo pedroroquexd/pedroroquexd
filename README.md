@@ -1,7 +1,6 @@
 <h3 align="left"> Olá! Eu sou o Pedro Roque! - <a href="https://discordapp.com/users/themoondusth">pedroquexd</a>  👻 💻 <h3>
 
-  
-<img align="right" style="margin-bottom: 30px;" src="https://media.tenor.com/ibbN_Dvz2WUAAAAM/kratos-heart.gif" min-width="300px" max-height="200px" width="300px" alt="gif"/>
+
 
 ## Sobre mim
 
@@ -10,6 +9,8 @@
 - 🧩 Hobbys: Jogar RPG | Desenhar | Ler e Escrever | Pescar | Tocar Piano e Violão
   
 ##
+
+<img align="right" style="margin-bottom: 30px;" src="https://media.tenor.com/ibbN_Dvz2WUAAAAM/kratos-heart.gif" min-width="300px" max-height="200px" width="300px" alt="gif"/>
 
 <a href="https://github.com/pedroroquexd">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroroquexd&show_icons=true&theme=midnight-purple&count_private=true"/>
