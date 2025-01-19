@@ -1,7 +1,7 @@
 <h3 align="left"> Olá! Eu sou o Pedro Roque! - <a href="https://discordapp.com/users/themoondusth">pedroquexd</a>  👻 💻 <h3>
 
   
-<img align="right" style="margin-bottom: 30px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fkratos-gifs&psig=AOvVaw1TfTCYNCn6PDuIBVnHXfeV&ust=1737379984424000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiPxvvygYsDFQAAAAAdAAAAABAE" min-width="300px" max-height="300px" width="300px" alt="gif"/>
+<img align="right" style="margin-bottom: 30px;" src="https://media.tenor.com/ibbN_Dvz2WUAAAAM/kratos-heart.gif" min-width="300px" max-height="300px" width="300px" alt="gif"/>
 
 ## Sobre mim
 
