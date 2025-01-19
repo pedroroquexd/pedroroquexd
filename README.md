@@ -5,8 +5,8 @@
 
 ## Sobre mim
 
-- 🙋‍♂️ Desenvolvedor FullStack | Produtor de Material Didático | CSharp | .NET Core | Javascript | HTML5 e CSS3 | Game Development/Design | Storytelling
-- 📚 Estudante de Desenvolvimento de Sistemas
+- 🙋‍♂️ Especialista em E-commerce | Gestão de Marketplaces | Estatística | Business Intelligence | Análise de Dados | Automação | Desenvolvedor RPA
+- 📚 Estudante de Estatísta na FMU 
 - 🧩 Hobbys: Jogar RPG | Desenhar | Ler e Escrever | Pescar | Tocar Piano e Violão
   
 ##
@@ -18,15 +18,15 @@
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroroquexd&layout=compact&langs_count=168&card_width=100&theme=midnight-purple" />
 </a>
 
-<h3> Aqui estão algumas das linguagens que eu estou estudando atualmente: 
+<h3> Aqui estão algumas das linguagens/ferramentas que eu estou estudando atualmente: 
 
 <div style="display: inline-block; margin-bottom: 30px; margin-right: 30px;"><br>
 
-<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg">
+<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg">
+<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+<img align="center" alt="Pedro=CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ### **🧐 Curiosidades:** 
@@ -39,13 +39,13 @@
 - Multiplos hobbies
 
 + Nascido e criado em São Paulo;
-+ Morando atualmente em Camaçari, Bahia, Brasil 🇧🇷;
-+ 22 anos de idade (22 Taylor's Version)
++ Morando atualmente em Lagoa Santa, Minas Gerais, Brasil 🇧🇷;
++ 23 anos de Idade
 
-! Atualmente aprendendo CSharp, .NET Core e outras linguagens voltadas à Web, como: Javascrip e PHP
-! É revisor e produtor de conteúdo didático voltado para a Tecnologia;
-! Futuro professor de programação;
-# Interessado em Java, GO, Infraestrutura e Microserviços
+! Atualmente aprodundando meus conhecimentos em Python, R, SQL/SQLITE 3 e outras ferramentas voltadas para a Análise de Dasos, como: Power BI 
+! Trabalho como Analista de E-Commerce, liderando o gerenciamento de lojas dentro de Marketplaces como Mercado Livre e Amazon;
+! Futuro Analista de Dados;
+# Machine Learning, Desenvolvimento RPA e Micro-Saas
 ```
 
 ### Para saber mais, ou simplesmente saber o que eu estou ouvindo no momento, você pode me encontrar aqui:
